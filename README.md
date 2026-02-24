@@ -2,12 +2,12 @@
 ---
 # 📘 HTML Tasks Collection
 # 📌 Project Overview
----
+
 This repository contains a collection of basic to intermediate HTML tasks created as part of my web development learning journey.
 Each task demonstrates different HTML concepts such as text formatting, lists, tables, forms, blockquotes, semantic tags, and more.
 ---
 # 🎯 Objectives
----
+
 -Practice core HTML concepts
 -Improve webpage structure understanding
 -Learn proper tag usage
